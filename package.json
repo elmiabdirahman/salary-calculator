@@ -1,0 +1,12 @@
+{
+  "name": "salary-calculator",
+  "version": "1.0.0",
+  "description": "[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
